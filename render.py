@@ -173,9 +173,13 @@ def scene_crispr(d, x, y, w, h):
                   fill=NAVY)
         d.ellipse([px + 66 - 4, py + 14 - off - 4, px + 66 + 4,
                    py + 14 - off + 4], fill=RED)
-    d.ellipse([x + 188, y + 12, x + 224, y + 48], fill=(255, 255, 255),
+    badge_font = font(SANS_B, 13)
+    bx0, by0, bx1, by1 = x + 188, y + 10, x + 236, y + 58
+    d.ellipse([bx0, by0, bx1, by1], fill=(255, 255, 255),
               outline=NAVY, width=2)
-    d.text((x + 194, y + 20), "-52%", font=font(SANS_B, 16), fill=NAVY)
+    btw = d.textlength("-52%", font=badge_font)
+    d.text((bx0 + (bx1 - bx0 - btw) / 2, by0 + 16), "-52%",
+           font=badge_font, fill=NAVY)
 
 
 PANELS = [
@@ -201,7 +205,7 @@ COLUMNS = [
     ]),
     ("POLITICS & MARKETS", [
         "EU, Indonesia sign trade deal",
-        "CRISPR cuts cholesterol 52%",
+        "Kansas City win NWSL title",
         "AI-weapons talks end, no rules",
         "Trump-Xi-Putin: summit fallout",
         "Cost-of-living protests spread",

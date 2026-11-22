@@ -5,7 +5,8 @@ Every story below happened, or was first reported, on Sunday 22 November
 (https://oneturn.news/day/2026-11-22/), which lists the story with its
 sources, and against the publication named. A few events happened late on
 Saturday 21 November (the cartel capture, the Mercury insertion, the
-factory fire) and were first reported in full on Sunday 22 November;
+factory fire, and the NWSL final) and were first reported in full on
+Sunday 22 November;
 they are marked *(Sat event, first reported Sun)*. Nothing here is from
 any other day.
 
@@ -71,9 +72,12 @@ any other day.
     Indonesia signed trade and investment agreements after a decade of
     talks; the deal removes 98.5% of tariffs on EU goods and covers
     about 730 million people. Source: France 24 / DW, 22 Nov 2026.
-15. **Oil caught between glut forecasts and Gulf turmoil** — Brent crude
-    sat near $90 a barrel, up 0.57% on the day, with Gulf attacks
-    keeping supply risks alive. Source: CNBC / BBC Business, 22 Nov 2026.
+15. **Kansas City Current win first NWSL Championship** *(Sat event,
+    first reported Sun)* — Kansas City Current beat Washington Spirit
+    2-1 to win the NWSL Championship final at Audi Field; it is the
+    club's first league title, and Washington lost its third straight
+    final. The final was played Saturday evening in the US, Sunday in
+    UTC. Source: CBC Sports / Guardian Sport, 22 Nov 2026.
 16. **One-time CRISPR therapy cuts bad cholesterol by 52%** — A first
     human trial found a single CRISPR gene-editing infusion cut
     dangerous cholesterol by 52%, with the benefit kept 12 months
@@ -130,6 +134,12 @@ any other day.
 30. **BTS win five MAMA awards** — BTS won five awards at the MAMA
     ceremony in Osaka, Japan; Cortis won Song of the Year.
     Source: Yonhap, 22 Nov 2026.
+
+## Day-in-figures strip
+
+Every figure in the strip comes from a story above except Brent crude:
+Brent sat near $90 a barrel, up 0.57% on the day, with Gulf attacks
+keeping supply risks alive. Source: CNBC / BBC Business, 22 Nov 2026.
 
 ## In brief (8)
 
